@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://lubien.me/saber-template-rin/</id>
+    <id>https://lubien.me/saber-template-rin/</id>
     <title>Love Rin</title>
-    <updated>2019-06-18T02:36:58.081Z</updated>
+    <updated>2019-06-18T02:47:42.381Z</updated>
     <generator>Saber</generator>
     <author>
         <name>Tohsaka Rin</name>
         <email>tohsaka@tohsaka.moe</email>
-        <uri>http://lubien.me/saber-template-rin/</uri>
+        <uri>https://lubien.me/saber-template-rin/</uri>
     </author>
-    <link rel="alternate" href="http://lubien.me/saber-template-rin/"/>
+    <link rel="alternate" href="https://lubien.me/saber-template-rin/"/>
     <subtitle>Behold the best</subtitle>
     <rights>All rights reserved</rights>
     <entry>
         <title type="html"><![CDATA[She protecc]]></title>
         <id>/posts/1-protecc.html</id>
-        <link href="http://lubien.me/posts/1-protecc.html">
+        <link href="https://lubien.me/posts/1-protecc.html">
         </link>
         <updated>2019-06-18T02:20:01.065Z</updated>
         <content type="html"><![CDATA[<center>
@@ -26,7 +26,7 @@
     <entry>
         <title type="html"><![CDATA[She attacc]]></title>
         <id>/posts/2-attacc.html</id>
-        <link href="http://lubien.me/posts/2-attacc.html">
+        <link href="https://lubien.me/posts/2-attacc.html">
         </link>
         <updated>2019-06-18T02:18:44.055Z</updated>
         <content type="html"><![CDATA[<center>
@@ -37,7 +37,7 @@
     <entry>
         <title type="html"><![CDATA[But she loves you bacc]]></title>
         <id>/posts/3-bacc.html</id>
-        <link href="http://lubien.me/posts/3-bacc.html">
+        <link href="https://lubien.me/posts/3-bacc.html">
         </link>
         <updated>2019-06-18T02:19:58.074Z</updated>
         <content type="html"><![CDATA[<center>
