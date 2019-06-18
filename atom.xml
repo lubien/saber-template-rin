@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tohsaka.moe</id>
+    <title>Love Rin</title>
+    <updated>2019-06-18T02:22:27.135Z</updated>
+    <generator>Saber</generator>
+    <author>
+        <name>Tohsaka Rin</name>
+        <email>tohsaka@tohsaka.moe</email>
+        <uri>https://tohsaka.moe</uri>
+    </author>
+    <link rel="alternate" href="https://tohsaka.moe"/>
+    <subtitle>Behold the best</subtitle>
+    <rights>All rights reserved</rights>
+    <entry>
+        <title type="html"><![CDATA[She protecc]]></title>
+        <id>/posts/1-protecc.html</id>
+        <link href="https://tohsaka.moe/posts/1-protecc.html">
+        </link>
+        <updated>2019-06-18T02:20:01.065Z</updated>
+        <content type="html"><![CDATA[<center>
+<p><img src="../../assets/protecc.jpg" alt="protecc"></p>
+</center>]]></content>
+        <published>2019-06-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[She attacc]]></title>
+        <id>/posts/2-attacc.html</id>
+        <link href="https://tohsaka.moe/posts/2-attacc.html">
+        </link>
+        <updated>2019-06-18T02:18:44.055Z</updated>
+        <content type="html"><![CDATA[<center>
+<p><img src="../../assets/attacc.gif" alt="attacc"></p>
+</center>]]></content>
+        <published>2019-06-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[But she loves you bacc]]></title>
+        <id>/posts/3-bacc.html</id>
+        <link href="https://tohsaka.moe/posts/3-bacc.html">
+        </link>
+        <updated>2019-06-18T02:19:58.074Z</updated>
+        <content type="html"><![CDATA[<center>
+<p><img src="../../assets/bacc.gif" alt="bacc"></p>
+</center>]]></content>
+        <published>2019-06-16T00:00:00.000Z</published>
+    </entry>
+</feed>
