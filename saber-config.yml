@@ -1,8 +1,11 @@
 theme: minima
 
+build:
+  publicUrl: /saber-template-rin/
+
 siteConfig:
   title: Love Rin
-  url: https://tohsaka.moe
+  url: https://lubien.me/saber-template-rin/
   author: Tohsaka Rin
   email: tohsaka@tohsaka.moe
   description: Behold the best
